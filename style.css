@@ -1,3 +1,14 @@
 *{
     background-color: rgb(202, 228, 234);
 }
+
+.Langkah2{
+    display: flex;
+    justify-content: center;
+    
+}
+.gambarlangkah{
+    display: flex;
+    justify-content: center;
+    
+}
